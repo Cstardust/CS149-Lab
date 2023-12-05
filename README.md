@@ -22,13 +22,13 @@ I only find the 2020 spring written assignments with solution. You can find it i
 
 There are five programming assignments in total. You can find my implementaion in the following links.
 
-[Assignment 1: Analyzing Parallel Program Performance on a Quad-Core CPU](https://github.com/PKUFlyingPig/asst1)
+[Assignment 1: Analyzing Parallel Program Performance on a Quad-Core CPU](https://github.com/Cstardust/CS149-asst1)
 
-[Assignment 2: Scheduling Task Graphs](https://github.com/PKUFlyingPig/asst2)
+[Assignment 2: Scheduling Task Graphs](https://github.com/Cstardust/CS149-asst2)
 
-[Assignment 3: A Simple Renderer in CUDA](https://github.com/PKUFlyingPig/asst3)
+[Assignment 3: A Simple Renderer in CUDA](https://github.com/Cstardust/CS149-asst3)
 
-[Assignment 4: Big Graph Processing in OpenMP](https://github.com/PKUFlyingPig/asst4)
+[Assignment 4: Big Graph Processing in OpenMP](https://github.com/Cstardust/CS149-asst4)
 
 ### Exams
 
